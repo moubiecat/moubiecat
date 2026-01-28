@@ -11,7 +11,7 @@
     "Skilled in **assembly language** and low-level code analysis for software optimization and understanding binary behavior."
   ],
   "tech_stack": {
-    "languages": ["C/C++", "Python", "JavaScript", "SQL", "Assembly"],
+    "languages": ["C/C++", "Java", "Python", "JavaScript", "SQL", "Assembly"],
     "frameworks_tools": [
       "C++: Modern C++ (C++17/20/23), CMake, STL, Boost",
       "Reverse Engineering Tools: Cheat Engine, IDA Pro",
